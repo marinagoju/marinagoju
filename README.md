@@ -19,7 +19,7 @@ Feel free to take a look !</strong></p>
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marinagoju&&theme=tokyonight" alt="marinagoju" />
 </p>
-<h2 align="left">Tech tools:</h2>
+<h2 align="left">Tech skills:</h2>
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
