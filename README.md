@@ -5,11 +5,7 @@
 <p align="justify">In my personal repository you will find some interesting projects from deep learning algorithms to data analysis. 
 Feel free to take a look !</strong></p>
 
-</br>
-</p>
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marinagoju&&theme=tokyonight" alt="marinagoju" />
-</p>
+
 <h2 align="left">Tech skills:</h2>
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
