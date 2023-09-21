@@ -2,7 +2,7 @@
    <h1 align="center">¡Hey there👋! I'm Marina</h1>
 </p>
 <p align="center"><strong>Data Scientist & passionate about learning new technologies.</strong></p>
-<p align="justify">In my personal repository you will find some interesting projects from deep learning algorithms to data analysis. 
+<p align="justify">In my personal repository you will find some interesting projects from deep learning algorithms to data analysis.   
 Feel free to take a look !</strong></p>
 
 
