@@ -5,15 +5,6 @@
 <p align="justify">In my personal repository you will find some interesting projects from deep learning algorithms to data analysis. 
 Feel free to take a look !</strong></p>
 
-<!--    
-[![Marina's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=marinagoju&&theme=xcode)](https://github.com/marinagoju)
-
-      
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marinagoju&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="marinagoju" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marinagoju&show_icons=true&locale=en&theme=tokyonight" alt="marinagoju" /></p>
--->
 </br>
 </p>
 <p align="center">
